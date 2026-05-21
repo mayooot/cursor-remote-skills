@@ -15,7 +15,7 @@ disconnectReason: 'lock_acquisition_failed'
 
 ## Fix
 
-See [skills/remote-ssh-fix/SKILL.md](./skills/remote-ssh-fix/SKILL.md)
+See [SKILL.md](./SKILL.md)
 for the full step-by-step, or follow the short version below.
 
 **1. Kill the stale lock on the remote machine**
